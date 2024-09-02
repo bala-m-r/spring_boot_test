@@ -1,0 +1,73 @@
+*[INFO ]-- Starting Application using Java 17.0.10 with PID 20508 (D:\c#Tutorial\springBoot\target\classes started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet engine: [Apache Tomcat/10.1.28]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Application in 3.809 seconds (process running for 4.272)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- Init duration for springdoc-openapi is: 252 ms--
+*[INFO ]-- Before method:List com.kgisl.springBoot.service.TradesService.getAllTrades()--
+*[INFO ]-- Class Name :  com.kgisl.springBoot.service.TradesService--
+*[INFO ]-- Entering in Method :  getAllTrades--
+*[INFO ]-- Arguments :  []--
+*[INFO ]-- After method:List com.kgisl.springBoot.service.TradesService.getAllTrades()--
+*[INFO ]-- Class Name :  com.kgisl.springBoot.service.TradesService--
+*[INFO ]-- Entering in Method :  getAllTrades--
+*[INFO ]-- Arguments :  []--
+*[WARN ]-- HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m30s807ms72µs300ns).--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting ApplicationTests using Java 17.0.10 with PID 20532 (started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started ApplicationTests in 9.7 seconds (process running for 13.346)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting ApplicationTests using Java 17.0.10 with PID 4816 (started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started ApplicationTests in 8.117 seconds (process running for 10.974)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting ApplicationTests using Java 17.0.10 with PID 5016 (started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started ApplicationTests in 7.623 seconds (process running for 10.447)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting Application using Java 17.0.10 with PID 21208 (D:\c#Tutorial\springBoot\target\classes started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet engine: [Apache Tomcat/10.1.28]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Application in 3.768 seconds (process running for 4.169)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting ApplicationTests using Java 17.0.10 with PID 22060 (started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started ApplicationTests in 7.31 seconds (process running for 10.388)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[INFO ]-- Starting ApplicationTests using Java 17.0.10 with PID 24412 (started by balamurugan.r in D:\c#Tutorial\springBoot)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb123 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started ApplicationTests in 9.986 seconds (process running for 14.463)--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
